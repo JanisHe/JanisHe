@@ -21,7 +21,7 @@
 
 ### :sparkles: Things I am proud of
 
-- `SeiSBench`, [an open-source python toolbox for machine learning in seismology](https://github.com/seisbench/seisbench)
+- Contributor of `SeiSBench`, [an open-source python toolbox for machine learning in seismology](https://github.com/seisbench/seisbench)
 - Helpful packages to train and apply SeisBench models:
   - [Training PhaseNet models in SeisBench](https://github.com/JanisHe/train_phasenet)
   - [Picking seismic phases using SeisBench pickers](https://github.com/JanisHe/seisbench_picking)
