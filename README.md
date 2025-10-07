@@ -11,9 +11,9 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23EE4C2C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-EE0000?style=for-the-badge&logo=linux&logoColor=white)
@@ -25,7 +25,7 @@
 - Helpful packages to train and apply SeisBench models:
   - [Training PhaseNet models in SeisBench](https://github.com/JanisHe/train_phasenet)
   - [Picking seismic phases using SeisBench pickers](https://github.com/JanisHe/seisbench_picking)
-  - [Assoicate seismic picks to build earthquake catalogs](https://github.com/JanisHe/association)
+  - [Associate seismic picks to build earthquake catalogs](https://github.com/JanisHe/association)
 
 
 ### :chart_with_upwards_trend: My GitHub Stats 
