@@ -26,6 +26,7 @@
   - [Training PhaseNet models in SeisBench](https://github.com/JanisHe/train_phasenet)
   - [Picking seismic phases using SeisBench pickers](https://github.com/JanisHe/seisbench_picking)
   - [Associate seismic picks to build earthquake catalogs](https://github.com/JanisHe/association)
+  - [Computing wind dependent PSD spectra at seismological stations](https://github.com/JanisHe/WindPSD)
 
 
 ### :chart_with_upwards_trend: My GitHub Stats 
